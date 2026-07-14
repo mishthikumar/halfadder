@@ -19,3 +19,12 @@ This project implements a Half Adder using Verilog HDL.
 ## Tools Used
 - EDA Playground
 - Icarus Verilog
+
+## Truth Table
+
+| A | B | Sum | Carry |
+|---|---|-----|-------|
+| 0 | 0 |  0  |   0   |
+| 0 | 1 |  1  |   0   |
+| 1 | 0 |  1  |   0   |
+| 1 | 1 |  0  |   1   |
