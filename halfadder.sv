@@ -1,4 +1,4 @@
-`timescale 1ns\1ps
+`timescale 1ns/1ps
 module halfadder(a,b,sum,carry);
   input a,b;
   output sum,carry;
