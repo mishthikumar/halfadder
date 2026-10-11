@@ -12,9 +12,9 @@ This project implements a Half Adder using Verilog HDL.
 - Carry
 
 ## Files
-- design.sv
-- testbench.sv
-- waveform.png
+- halfadder.v
+- halfadder_tb.v
+- halfadder.png
 
 ## Tools Used
 - EDA Playground
